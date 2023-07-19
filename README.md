@@ -57,8 +57,7 @@ public class NumberGame {
 	        System.out.println("Thank you for playing the Number Guessing Game!");
          }
          }
-	    }
-	}
+	    
 
 
 
